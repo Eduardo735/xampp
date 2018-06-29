@@ -5,7 +5,7 @@ C:\xampp\htdocs\md5\md5.php
 
 ¿Cómo funciona?
 
-*Se calculan todas las combinaciones posible de dos caracteres alfanuméricos y especiales(".","@") con la función foreach().
+*Se calculan todas las combinaciones posibles de dos caracteres alfanuméricos y especiales(".","@") con la función foreach().
 
 *Al calcular el MD5 de cada combinación hará una comparación con todas las variables que tienen guardado el hash que se debe encontrar.
 //operación para la regla de cifrado 
