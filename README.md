@@ -1,4 +1,4 @@
-# Examen Dentalia
+# Test
 El programa se escribió en PHP corriendo el servidor XAMPP en local host.
 Estructura del folder donde se guardo el codigo.
 C:\xampp\htdocs\md5\md5.php
